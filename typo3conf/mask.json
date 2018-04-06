@@ -1,0 +1,42 @@
+{
+    "tt_content": {
+        "elements": {
+            "test": {
+                "label": "test",
+                "key": "test",
+                "shortLabel": "Test",
+                "description": "",
+                "icon": "",
+                "color": "#000000",
+                "labels": [
+                    "Name"
+                ],
+                "columns": [
+                    "tx_mask_name"
+                ]
+            }
+        },
+        "sql": {
+            "tx_mask_name": {
+                "tt_content": {
+                    "tx_mask_name": "tinytext"
+                }
+            }
+        },
+        "tca": {
+            "tx_mask_name": {
+                "config": {
+                    "type": "input",
+                    "eval": "",
+                    "default": "",
+                    "placeholder": "",
+                    "size": "",
+                    "max": "",
+                    "is_in": ""
+                },
+                "exclude": "1",
+                "key": "name"
+            }
+        }
+    }
+}

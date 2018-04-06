@@ -1,0 +1,1 @@
+ALTER TABLE `tt_content` ADD `btn` VARCHAR(255) NOT NULL AFTER `subheader`, ADD `btn_link` VARCHAR(255) NOT NULL AFTER `btn`;

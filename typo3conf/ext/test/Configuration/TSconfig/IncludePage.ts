@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:test/Configuration/TSconfig/Page" extensions="ts">
